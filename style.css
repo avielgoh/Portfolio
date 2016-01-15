@@ -1509,23 +1509,25 @@ section {
       width: 5em;
       height: 0.2em;
       background-color: #21607b; }
-  #about .about-description {
-    padding-right: 0;
-    padding-left: 1.5em; }
-    #about .about-description p {
-      text-align: justify;
-      text-justify: inter-word; }
-  #about .about-links-group {
-    padding-right: 0; }
-  #about .about-links {
-    padding-right: 0;
-    padding-top: 0; }
-    #about .about-links h4 {
-      font-family: Ailerons;
-      padding-top: 0.3em;
-      font-size: 0.6em; }
-    #about .about-links p {
-      font-size: 0.4em; }
+  #about {
+    padding-top: 4em; }
+    #about .about-description {
+      padding-right: 0;
+      padding-left: 1.5em; }
+      #about .about-description p {
+        text-align: justify;
+        text-justify: inter-word; }
+    #about .about-links-group {
+      padding-right: 0; }
+    #about .about-links {
+      padding-right: 0;
+      padding-top: 0; }
+      #about .about-links h4 {
+        font-family: Ailerons;
+        padding-top: 0.3em;
+        font-size: 0.6em; }
+      #about .about-links p {
+        font-size: 0.4em; }
   #projects h3 {
     font-size: 2.1em; }
   .contact-phone a, .contact-email a {
